@@ -1,6 +1,8 @@
 
 Hello I'm Vinicius, and I'm a game developer intern at EducAr Immersive Learn where I develop XR, UI, gameplay, sound, animations and network for our applications focusend in education. However I like to programming APIs and SPAs with CSharp and Angular + Typescript too!
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanashiro/)](https://www.linkedin.com/in/vinolivae/)
+
 ### Technologies 🐱‍💻
 
 These are technologies and tools that I work with:
