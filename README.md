@@ -12,7 +12,7 @@ These are technologies and tools that I work with:
 ![VStudio](https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
-![unity](https://img.shields.io/badge/-Unity-black)
+![unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
