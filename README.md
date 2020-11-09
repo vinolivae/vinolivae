@@ -7,10 +7,11 @@ Hello I'm Vinicius, and I'm a game developer intern at EducAr Immersive Learn wh
 
 These are technologies and tools that I work with:
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VStudio](https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-purple?logo=c-sharp)
+![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
 ![unity](https://img.shields.io/badge/-Unity-black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
