@@ -29,7 +29,7 @@ These are technologies and tools that I work with:
 ![unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ACC?logo=typescript)
-![Javascript](https://img.shields.io/badge/Javascript-fcff99?style=flat-square&logo=javascript)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-9efc56?style=flat-square&logo=node.js)
 ![Expressjs](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
