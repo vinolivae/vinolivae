@@ -1,5 +1,14 @@
+[PT-BR]
 
-Hello I'm Vinicius, and I'm a game developer intern at EducAr Immersive Learn where I develop XR, UI, gameplay, sound, animations and network for our applications focusend in education. However I like to programming APIs and SPAs with CSharp and Angular + Typescript too!
+Olá, sou Vinicius e sou estagiário de desenvolvimento de jogos na EducAr Immersive Learn, onde desenvolvo XR, UI, gameplay, som, animações e rede para nossos aplicativos com foco na educação. No entanto, gosto de programar APIs e SPAs com CSharp, JS, Node.js e express, e Angular também!
+
+Tenho uma grande paixão por C# e .NET, porém desenvolvo algumas coisas utilizando Node.js + Express e alguns aplicativos com AndroidStudio e kotlin! Tenho interesse tem linguagens funcionais, e em Next.js também.
+
+[ENG]
+
+Hello I'm Vinicius, and I'm a game developer intern at EducAr Immersive Learn where I develop XR, UI, gameplay, sound, animations and network for our applications focusend in education. However I like to programming APIs and SPAs with CSharp, JS, Node.js and express, and Angular too!
+
+I have a great passion for C # and .NET, but I develop some things using Node.js + Express.js and some applications with AndroidStudio and kotlin! I am interested in functional languages, and in Next.js too.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanashiro/)](https://www.linkedin.com/in/vinolivae/)
 
