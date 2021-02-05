@@ -1,12 +1,16 @@
 [PT-BR]
 
-Olá, sou Vinicius e sou estagiário de desenvolvimento de jogos na EducAr Immersive Learn, onde desenvolvo XR, UI, gameplay, som, animações e rede para nossos aplicativos com foco na educação. No entanto, gosto de programar APIs e SPAs com CSharp, Node.js + express e Angular. Também gosto de desenvolver o frontend sem frameworks ou bibliotecas!
+Olá, sou Vinicius e sou estagiário de desenvolvimento de jogos na EducAr Immersive Learn, onde desenvolvo XR, UI, gameplay, som, animações e rede para nossos aplicativos com foco na educação. 
+
+Eu gosto de programar APIs e SPAs com CSharp, Node.js + express, Angular e de desenvolver o frontend sem frameworks ou bibliotecas!
 
 Tenho interesse em linguagens funcionais, Next.js e desenvolvimento nativo com kotlin e AndroidStudio.
 
 [ENG]
 
-Hello, I am Vinicius and I am a game development intern at EducAr Immersive Learn, where I develop XR, UI, gameplay, sound, animations and network for our apps with a focus on education. However, I like to program APIs and SPAs with CSharp, Node.js + express and Angular. I also like to develop the frontend without frameworks or a libraries!
+Hello, I am Vinicius and I am a game development intern at EducAr Immersive Learn, where I develop XR, UI, gameplay, sound, animations and network for our apps with a focus on education. 
+
+I like to program APIs and SPAs with CSharp, Node.js + express, Angular and to develop the frontend without frameworks or libraries!
 
 I am interested in functional languages, Next.js and native development using AndroidStudio and kotlin.
 
