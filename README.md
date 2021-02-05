@@ -16,10 +16,13 @@ These are technologies and tools that I work with:
 ![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ACC?logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-fcff99?style=flat-square&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/Node.js-9efc56?style=flat-square&logo=node.js)
+![Expressjs](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<!--[Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+
 <!--
 **vinolivae/vinolivae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
