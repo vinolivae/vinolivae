@@ -1,43 +1,33 @@
 [PT-BR]
 
-Olá, sou Vinicius e sou estagiário de desenvolvimento de jogos na EducAr Immersive Learn, onde desenvolvo XR, UI, gameplay, som, animações e rede para nossos aplicativos com foco na educação. 
+Olá, sou Vinicius e comecei minha carreira no desenvolvimento de jogos desenvolvendo XR, UI, gameplay, som, animações e rede utilizando Unity Engine. E já me aventurei no frontend com Angular e AndroidStudio utilizando Kotlin.
 
-Eu gosto de programar APIs e SPAs com CSharp, Node.js + express, Angular e de desenvolver o frontend sem frameworks ou bibliotecas!
-
-Tenho interesse em linguagens funcionais, Next.js e desenvolvimento nativo com kotlin e AndroidStudio.
+Atualmente continuo apreciando o desenvolvimento de jogos, porém com uma nova paixão chamada Elixir. Atualmente trabalho na Stone Co como desenvolvedor de software. Utilizado Elixir, Phoenix, Docker e Postgres no desenvolvimento das nossas aplicações.
 
 [ENG]
 
-Hello, I am Vinicius and I am a game development intern at EducAr Immersive Learn, where I develop XR, UI, gameplay, sound, animations and network for our apps with a focus on education. 
+Hello, I'm Vinicius and started my career in game development by developing XR, UI, gameplay, sound, animations and networking using the Unity Engine. And I have already ventured into the frontend with Angular and AndroidStudio using Kotlin.
 
-I like to program APIs and SPAs with CSharp, Node.js + express, Angular and to develop the frontend without frameworks or libraries!
-
-I am interested in functional languages, Next.js and native development using AndroidStudio and kotlin.
+Currently I continue to enjoy the development of games, but with a new passion Elixir. I'm currently work at Stone Co as a software developer. Using Elixir, Phoenix, Docker and Postgres in the development of our applications.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanashiro/)](https://www.linkedin.com/in/vinolivae/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinolivae/)
 
 ### Technologies 🐱‍💻
 
 These are technologies and tools that I work with:
 
-![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ![VStudio](https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
 ![unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ACC?logo=typescript)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Node.js-9efc56?style=flat-square&logo=node.js)
-![Expressjs](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!--[Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+![Elixir](https://img.shields.io/badge/-Elixir-purple?logo=Elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-orange?logo=phoenix)
+![Docker](https://img.shields.io/badge/-Docker-white?logo=Docker)
+![Postgres](https://img.shields.io/badge/-Postgres-blue?logo=PostgreSql)
 
-<!--
 **vinolivae/vinolivae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
