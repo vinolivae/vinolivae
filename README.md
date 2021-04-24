@@ -28,6 +28,7 @@ These are technologies and tools that I work with:
 ![Docker](https://img.shields.io/badge/-Docker-white?logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgres-blue?logo=PostgreSql)
 
+<!-- 
 **vinolivae/vinolivae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
