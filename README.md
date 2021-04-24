@@ -11,7 +11,7 @@ Hello, I'm Vinicius and started my career in game development by developing XR, 
 Currently I continue to enjoy the development of games, but with a new passion Elixir. I'm currently work at Stone Co as a software developer. Using Elixir, Phoenix, Docker and Postgres in the development of our applications.
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinolivae/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor)](https://www.linkedin.com/in/vinolivae/)
 
 ### Technologies 🐱‍💻
 
