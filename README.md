@@ -13,6 +13,7 @@ Currently I continue to enjoy the development of games, but with a new passion E
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor)](https://www.linkedin.com/in/vinolivae/)
 
+___
 ### Technologies 🐱‍💻
 
 These are technologies and tools that I work with:
@@ -27,6 +28,11 @@ These are technologies and tools that I work with:
 ![Phoenix](https://img.shields.io/badge/-Phoenix-orange?logo=phoenix)
 ![Docker](https://img.shields.io/badge/-Docker-white?logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgres-blue?logo=PostgreSql)
+
+
+___
+
+[![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinolivae&theme=dark&show_icons=true&count_private=true)](https://github.com/vinolivae)
 
 <!-- 
 **vinolivae/vinolivae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
