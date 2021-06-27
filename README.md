@@ -27,7 +27,7 @@ These are technologies and tools that I work with:
 ![Elixir](https://img.shields.io/badge/-Elixir-purple?logo=Elixir)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-orange?logo=phoenix)
 ![Docker](https://img.shields.io/badge/-Docker-white?logo=Docker)
-![Postgres](https://img.shields.io/badge/-Postgres-blue?logo=PostgreSql)
+![Postgres](https://img.shields.io/badge/-Postgres-white?logo=PostgreSql)
 
 
 ___
