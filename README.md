@@ -1,14 +1,6 @@
-[PT-BR]
+Hello and Welcome! 😁
 
-Olá, sou Vinicius e comecei minha carreira no desenvolvimento de jogos desenvolvendo XR, UI, gameplay, som, animações e rede utilizando Unity Engine. E já me aventurei no frontend com Angular e AndroidStudio utilizando Kotlin.
 
-Atualmente continuo apreciando o desenvolvimento de jogos, porém com uma nova paixão chamada Elixir. Atualmente trabalho na Stone Co como desenvolvedor de software. Utilizado Elixir, Phoenix, Docker e Postgres no desenvolvimento das nossas aplicações.
-
-[ENG]
-
-Hello, I'm Vinicius and started my career in game development by developing XR, UI, gameplay, sound, animations and networking using the Unity Engine. And I have already ventured into the frontend with Angular and AndroidStudio using Kotlin.
-
-Currently I continue to enjoy the development of games, but with a new passion Elixir. I'm currently work at Stone Co as a software developer. Using Elixir, Phoenix, Docker and Postgres in the development of our applications.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor)](https://www.linkedin.com/in/vinolivae/)
@@ -16,7 +8,7 @@ Currently I continue to enjoy the development of games, but with a new passion E
 ___
 ### Technologies 🐱‍💻
 
-These are technologies and tools that I work with:
+These are the technologies and tools I like the most:
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
