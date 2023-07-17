@@ -22,8 +22,6 @@ These are the technologies and tools I like the most:
 
 
 ___
-
-[![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinolivae&theme=default&show_icons=true&count_private=true&hide_title=true)](https://github.com/vinolivae)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinolivae&layout=compact)](https://github.com/vinolivae/github-readme-stats)
 
 <!-- 
