@@ -11,15 +11,13 @@ These are the technologies and tools I like the most:
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![VStudio](https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio)
-![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
+![Golang](https://img.shields.io/badge/-golang-white?logo=go)
 ![unity](https://img.shields.io/badge/-Unity-black?logo=unity)
-![C#](https://img.shields.io/badge/-CSharp-blue?logo=c-sharp)
+![C#](https://img.shields.io/badge/-CSharp-blue?logo=csharp)
 ![Elixir](https://img.shields.io/badge/-Elixir-purple?logo=Elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-orange?logo=phoenix)
+![Phoenix](https://img.shields.io/badge/-Phoenix-white?logo=phoenixframework)
 ![Docker](https://img.shields.io/badge/-Docker-white?logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgres-white?logo=PostgreSql)
-
 
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinolivae&layout=compact)](https://github.com/vinolivae/github-readme-stats)
